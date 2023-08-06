@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Sol\\OneDrive - nhg.vn\\Desktop\\mysql-connector-j-8.1.0\\mysql-connector-j-8.1.0.jar",
+        "e:\\Dev\\LapTrinh_UD_voiJava\\mysql-connector-j-8.1.0\\mysql-connector-j-8.1.0.jar",
+        "e:\\Dev\\LapTrinh_UD_voiJava\\sqljdbc_12.2\\enu\\mssql-jdbc-12.2.0.jre11.jar",
+        "c:\\Users\\MY PC\\Downloads\\mysql-connector-j-8.1.0\\mysql-connector-j-8.1.0.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
